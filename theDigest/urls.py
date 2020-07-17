@@ -17,12 +17,13 @@ from django.contrib import admin
 from django.urls import path
 from django.conf.urls import include, url
 
+
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^api/services/app/Account/', include('Account.urls')),
-    # url(r'^api/services/app/Tenant/', include('Tenant.urls')),
-    # url(r'^api/services/app/Announcement/', include('Announcement.urls')),
-    # url(r'^api/services/app/GradeTimetable/', include('GradeTimetable.urls')),
+    path('api/services/app/Account/', include('Account.urls')),
+    url(r'^api/services/app/Tenant/', include('Tenant.urls')),
+    url(r'^api/services/app/Announcement/', include('Announcement.urls')),
+    url(r'^api/services/app/GradeTimetable/', include('GradeTimetable.urls')),
     # url(r'^api/services/app/Homework/', include('Homework.urls')),
     # url(r'^api/services/app/Message/', include('Message.urls')),
     # url(r'^api/services/app/Role/', include('Role.urls')),

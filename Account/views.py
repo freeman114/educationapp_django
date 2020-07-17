@@ -4,5 +4,13 @@ from django.http import HttpResponse
 
 # Create your views here.
 
-def IsTenantAvailable_view(request):
-    return HttpResponse("Hello, this is account app.")
+def istenantavailable_view(request):
+    return HttpResponse("IsTenantAvailable")
+
+
+def inviteuser_view(request):
+    return HttpResponse("InviteUser")
+
+
+def activateuser_view(request):
+    return HttpResponse("ActivateUser")

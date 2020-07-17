@@ -2,8 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="58b4cf75-1648-4bb7-b167-c6e6c4bdfc6d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Announcement/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GradeTimetable/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Homework/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Message/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Role/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolTerm/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SchoolVenue/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Session_Token/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Student/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Subject/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tenant/urls.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/User/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theDigest/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/theDigest/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Announcement/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Announcement/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GradeTimetable/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/GradeTimetable/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Tenant/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tenant/views.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/theDigest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/theDigest/urls.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,19 +38,26 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1em6LeQmEXFQ4lVtZIX2Ypcxd65" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/User" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="G:\work\djnago_api\theDigest" />
+      <recent name="G:\work\djnago_api\theDigest\User" />
+      <recent name="G:\work\djnago_api\theDigest\Subject" />
+      <recent name="G:\work\djnago_api\theDigest\Student" />
+      <recent name="G:\work\djnago_api\theDigest\Session_Token" />
+      <recent name="G:\work\djnago_api\theDigest\SchoolVenue" />
     </key>
   </component>
   <component name="SvnConfiguration">
@@ -49,6 +72,9 @@
       <updated>1594914366935</updated>
     </task>
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1594965612765">

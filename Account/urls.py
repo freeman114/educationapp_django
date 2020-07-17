@@ -1,8 +1,8 @@
 from django.conf.urls import include, url
-from django.urls import path
 from Account.views import *
 
 urlpatterns = [
-    # url(r'^IsTenantAvailable', include('Account.urls'))
-    path('IsTenantAvailable/', IsTenantAvailable_view, name='IsTenantAvailable_view')
+    url(r'^IsTenantAvailable', istenantavailable_view, name="IsTenantAvailable_view"),
+    url(r'^InviteUser', inviteuser_view, name='InviteUser_view'),
+    url(r'^ActivateUser', activateuser_view, name='ActivateUser_view')
 ]
