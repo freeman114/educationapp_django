@@ -19,5 +19,17 @@ from django.conf.urls import include, url
 
 urlpatterns = [
     url(r'^admin/', admin.site.urls),
-    url(r'^api/services/app/Account/', include('Account.urls'))
+    url(r'^api/services/app/Account/', include('Account.urls')),
+    # url(r'^api/services/app/Tenant/', include('Tenant.urls')),
+    # url(r'^api/services/app/Announcement/', include('Announcement.urls')),
+    # url(r'^api/services/app/GradeTimetable/', include('GradeTimetable.urls')),
+    # url(r'^api/services/app/Homework/', include('Homework.urls')),
+    # url(r'^api/services/app/Message/', include('Message.urls')),
+    # url(r'^api/services/app/Role/', include('Role.urls')),
+    # url(r'^api/services/app/SchoolTerm/', include('SchoolTerm.urls')),
+    # url(r'^api/services/app/SchoolVenue/', include('SchoolVenue.urls')),
+    # url(r'^api/services/app/Session_Token/', include('Session_Token.urls')),
+    # url(r'^api/services/app/Student/', include('Student.urls')),
+    # url(r'^api/services/app/Subject/', include('Subject.urls')),
+    # url(r'^api/services/app/User/', include('User.urls'))
 ]
