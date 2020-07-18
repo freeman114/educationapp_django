@@ -1,27 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="58b4cf75-1648-4bb7-b167-c6e6c4bdfc6d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Announcement/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/GradeTimetable/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Homework/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Message/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Role/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolTerm/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SchoolVenue/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Session_Token/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Student/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Subject/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Tenant/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/User/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Account/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Announcement/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Announcement/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/GradeTimetable/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/GradeTimetable/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Tenant/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/Tenant/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/theDigest/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/theDigest/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="58b4cf75-1648-4bb7-b167-c6e6c4bdfc6d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -77,9 +57,10 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1594965612765">
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1595002997947">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.0.1536.824@0.0.1920.1040" timestamp="1595002997947" />
     <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1594965612765" />
   </component>
 </project>
